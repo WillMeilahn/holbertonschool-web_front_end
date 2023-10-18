@@ -12,17 +12,21 @@ html{
 }
 
 body {
-        color: var(--text-color);
+    color: #161616;
+}
 
     a {
-        color: var(--text-color);
+        color: #161616;
     }
 
     .visually-hidden {
         display: none;
     }
 
-    .card-category, .section-tagline {
-        color: var(--color-primary);
+    .card-category {
+        color: #D73953;
     }
-}
+
+    .section-tagline {
+        color: #D73953;
+    }
